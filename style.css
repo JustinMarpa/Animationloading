@@ -31,7 +31,7 @@ h1:before{
     width: 100%;
     color: #03a9f4;
     overflow: hidden;
-    border-bottom: 16px solid #f3f049;
+    border-bottom: 16px solid #03a9f4;
     animation: animate 10s linear infinite;
 
 }
